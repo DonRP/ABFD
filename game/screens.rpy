@@ -856,6 +856,7 @@ screen preferences():
                     textbutton _( "Italian" ) action Language("italian")
                     textbutton _( "Polish" ) action Language("polish")
                     textbutton _( "Russian" ) action Language("russian")
+                    textbutton _( "Spanish" ) action Language("spanish")
 
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
