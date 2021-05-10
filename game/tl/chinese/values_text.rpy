@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2021-05-09 23:48
 
-translate crowdin strings:
+translate chinese strings:
 
     # game/values_text.rpy:12
     old "[jn], my [jnR.NPClabel], is a former Navy Seals. As a boy he was a tough guy and a rebel, but military life changed him."

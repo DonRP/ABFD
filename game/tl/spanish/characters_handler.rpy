@@ -1,168 +1,168 @@
 ﻿# TODO: Translation updated at 2021-05-09 23:48
 
 # game/tool/characters_handler.rpy:156
-translate crowdin renaming_mc_24748d50:
+translate spanish renaming_mc_24748d50:
 
     # "Player" "My name is:"
     "Jugador" "Mi nombre es:"
 
 # game/tool/characters_handler.rpy:162
-translate crowdin renaming_mc_e6f6fb33:
+translate spanish renaming_mc_e6f6fb33:
 
     # "Player" "My surname is:"
     "Jugador" "Mi apellido es:"
 
 # game/tool/characters_handler.rpy:196
-translate crowdin live_with_42cd0ea9:
+translate spanish live_with_42cd0ea9:
 
     # mc "Now I live with/in:" nointeract
     mc "Ahora vivo con/en:" nointeract
 
 # game/tool/characters_handler.rpy:276
-translate crowdin renaming_mc_family_90eebff9:
+translate spanish renaming_mc_family_90eebff9:
 
     # "My [emyR.NPClabel]'s name:"
     "El nombre del [emyR.NPClabel] es:"
 
 # game/tool/characters_handler.rpy:280
-translate crowdin renaming_mc_family_66e9d7c7:
+translate spanish renaming_mc_family_66e9d7c7:
 
     # "My [jnR.NPClabel]'s name:"
     "El nombre del [jnR.NPClabel] es:"
 
 # game/tool/characters_handler.rpy:285
-translate crowdin renaming_mc_family_52da3e95:
+translate spanish renaming_mc_family_52da3e95:
 
     # "My little [miaR.NPClabel]'s name:"
     "El nombre de la [miaR.NPClabel] más pequeña es:"
 
 # game/tool/characters_handler.rpy:289
-translate crowdin renaming_mc_family_c9cffb00:
+translate spanish renaming_mc_family_c9cffb00:
 
     # "My (coetaneous) [arnR.NPClabel]'s name:"
     "El nombre de la [arnR.NPClabel] de mi misma edad es:"
 
 # game/tool/characters_handler.rpy:293
-translate crowdin renaming_mc_family_8c9af609:
+translate spanish renaming_mc_family_8c9af609:
 
     # "My big [vctR.NPClabel]'s name:"
     "El nombre de la [vctR.NPClabel] más mayor es:"
 
 # game/tool/characters_handler.rpy:303
-translate crowdin customize_mc_family_b13c3b91:
+translate spanish customize_mc_family_b13c3b91:
 
     # "Her name is:"
     "Su nombre es:"
 
 # game/tool/characters_handler.rpy:305
-translate crowdin customize_mc_family_1c98758a:
+translate spanish customize_mc_family_1c98758a:
 
     # "She is my:"
     "Ella es mi:"
 
 # game/tool/characters_handler.rpy:307
-translate crowdin customize_mc_family_176e4263:
+translate spanish customize_mc_family_176e4263:
 
     # "I'm [emy]'s:"
     "Soy el ___ de [emy]."
 
 # game/tool/characters_handler.rpy:311
-translate crowdin customize_mc_family_f2645812:
+translate spanish customize_mc_family_f2645812:
 
     # "His name is:"
     "Su nombre es:"
 
 # game/tool/characters_handler.rpy:313
-translate crowdin customize_mc_family_65bb234d:
+translate spanish customize_mc_family_65bb234d:
 
     # "He is my:"
     "Él es mi:"
 
 # game/tool/characters_handler.rpy:315
-translate crowdin customize_mc_family_f40814cd:
+translate spanish customize_mc_family_f40814cd:
 
     # "I'm [jn]'s:"
     "Soy el ___ de [jn]."
 
 # game/tool/characters_handler.rpy:320
-translate crowdin customize_mc_family_b13c3b91_1:
+translate spanish customize_mc_family_b13c3b91_1:
 
     # "Her name is:"
     "Su nombre es:"
 
 # game/tool/characters_handler.rpy:322
-translate crowdin customize_mc_family_1c98758a_1:
+translate spanish customize_mc_family_1c98758a_1:
 
     # "She is my:"
     "Ella es mi:"
 
 # game/tool/characters_handler.rpy:324
-translate crowdin customize_mc_family_21811c9e:
+translate spanish customize_mc_family_21811c9e:
 
     # "I'm [mia]'s:"
     "Soy el ___ de [mia]."
 
 # game/tool/characters_handler.rpy:338
-translate crowdin customize_mc_family_b13c3b91_2:
+translate spanish customize_mc_family_b13c3b91_2:
 
     # "Her name is:"
     "Su nombre es:"
 
 # game/tool/characters_handler.rpy:341
-translate crowdin customize_mc_family_1c98758a_2:
+translate spanish customize_mc_family_1c98758a_2:
 
     # "She is my:"
     "Ella es mi:"
 
 # game/tool/characters_handler.rpy:343
-translate crowdin customize_mc_family_4b262b3d:
+translate spanish customize_mc_family_4b262b3d:
 
     # "I'm [arn]'s:"
     "Soy el ___ de [arn]."
 
 # game/tool/characters_handler.rpy:347
-translate crowdin customize_mc_family_b13c3b91_3:
+translate spanish customize_mc_family_b13c3b91_3:
 
     # "Her name is:"
     "Su nombre es:"
 
 # game/tool/characters_handler.rpy:350
-translate crowdin customize_mc_family_1c98758a_3:
+translate spanish customize_mc_family_1c98758a_3:
 
     # "She is my:"
     "Ella es mi:"
 
 # game/tool/characters_handler.rpy:352
-translate crowdin customize_mc_family_6cd3181f:
+translate spanish customize_mc_family_6cd3181f:
 
     # "I'm [vct]'s:"
     "Soy el ___ de [vct]:"
 
 # game/tool/characters_handler.rpy:356
-translate crowdin customize_mc_family_ebbc1713:
+translate spanish customize_mc_family_ebbc1713:
 
     # "Who is [vct] to [emy] and [jn] (also applies to [mia] and [arn])?"
     "Quien es [vct] para [emy] y [jn]? (También se aplica a [mia] y [arn])"
 
 # game/tool/characters_handler.rpy:359
-translate crowdin customize_mc_family_f8f0e56e:
+translate spanish customize_mc_family_f8f0e56e:
 
     # "For [vct], [mia] and [arn], [jn] is them:"
     "Para [vct], [mia] y [arn], [jn] es su:"
 
 # game/tool/characters_handler.rpy:361
-translate crowdin customize_mc_family_2f9e588c:
+translate spanish customize_mc_family_2f9e588c:
 
     # "For [vct], [mia] and [arn], [emy] is them:"
     "Para [vct], [mia] y [arn], [emy] es su:"
 
 # game/tool/characters_handler.rpy:373
-translate crowdin renaming_friend_a0dc9061:
+translate spanish renaming_friend_a0dc9061:
 
     # "[mc]'s [bffR.NPClabel] is called:"
     "El [bffR.NPClabel] de [mc] se llama:"
 
-translate crowdin strings:
+translate spanish strings:
 
     # game/tool/characters_handler.rpy:196
     old "Step family"

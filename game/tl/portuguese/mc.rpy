@@ -1,18 +1,18 @@
 ﻿# TODO: Translation updated at 2021-05-09 23:45
 
 # game/labels/mc.rpy:17
-translate crowdin optional_name_9cf2bc19:
+translate portuguese optional_name_9cf2bc19:
 
     # mc "{i}Mhmm... Which one of these porns?" nointeract
     mc "{i}Mhmm... Which one of these porns?" nointeract
 
 # game/labels/mc.rpy:66
-translate crowdin optional_name_571631ed:
+translate portuguese optional_name_571631ed:
 
     # mc "{i}Oh, YES! Oh, shit!"
     mc "{i}Oh, YES! Oh, shit!"
 
-translate crowdin strings:
+translate portuguese strings:
 
     # game/labels/mc.rpy:17
     old "Black on blonde"

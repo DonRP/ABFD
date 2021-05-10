@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2021-05-09 23:45
 
-translate crowdin strings:
+translate french strings:
 
     # game/screens.rpy:291
     old "Back"

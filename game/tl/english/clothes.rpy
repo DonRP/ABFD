@@ -1,12 +1,12 @@
 ﻿# TODO: Translation updated at 2021-05-09 23:45
 
 # game/clothes.rpy:47
-translate crowdin first_dress_up_e7f27efe:
+translate english first_dress_up_e7f27efe:
 
     # "{i}Better to put on something clean."
     "{i}Better to put on something clean."
 
-translate crowdin strings:
+translate english strings:
 
     # game/clothes.rpy:7
     old "What do you want to change?"
